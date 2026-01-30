@@ -1,0 +1,9 @@
+{
+  "name": "mev-sandwich-protection-router",
+  "version": "1.0.0",
+  "description": "MEV protection and slippage enforcement",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "hardhat": "^2.19.4"
+  }
+}
